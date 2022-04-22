@@ -7,8 +7,6 @@ Me llamo Kevin Camacho. Me gustan los videojuegoos y el ultimate freesbe, soy de
 - 🪀 Estoy aprendiendo constantemente nuevas tecnologías para desarrollar mis proyectos.
 - 🎮 Nickname: kalexcamacho 
 - ⚡ Fun fact: Me gusta aprender y probar cosas nuevas, actualmente estoy incursionando en el mundo del streamming de videojuegos :) 
-
-<img src="https://user-images.githubusercontent.com/97989061/164719548-91593709-ab2a-4595-810b-11d19930d274.png" align="left" width=450px></img>
 <img src="https://user-images.githubusercontent.com/97989061/164719491-d844a091-c763-4dc8-b220-f7256989adeb.png" align="right" width=450px></img>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalexcamacho&hide=stars&show_icons=true&theme=tokyonight&border_radius=10px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
