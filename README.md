@@ -5,8 +5,8 @@ Me llamo Kevin Camacho. Me gustan los videojuegoos y el ultimate freesbe, soy de
 <img src="https://user-images.githubusercontent.com/97989061/164719491-d844a091-c763-4dc8-b220-f7256989adeb.png" align="right" width=450px></img>
 
 - 💻 Manejo tecnologías como: NodeJs, Express, APIs (REST), SQL, MySQL, Sequelize, Git, GitHub, Javascript, HTML5 y CSS.
-- 🌯 Estoy trabajando en el desarrollo de una aplicación web de tipo e-commerce usando CRUD.
-- 🪀 Estoy aprendiendo constantemente nuevas tecnologías para desarrollar mis proyectos.
+- 🤓 Estoy trabajando en el desarrollo de una aplicación web de tipo e-commerce usando CRUD.
+- 🧠 Estoy aprendiendo constantemente nuevas tecnologías para desarrollar mis proyectos.
 - 🎮 Nickname: kalexcamacho 
 - ⚡ Fun fact: Me gusta aprender y probar cosas nuevas, actualmente estoy incursionando en el mundo del streamming de videojuegos :) 
 
