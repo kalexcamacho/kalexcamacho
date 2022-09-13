@@ -21,6 +21,7 @@ let clickButtonHandler = (e: any) => {
   e.preventDefault();
   console.log("Hi, here clickButtonHandler")
 };
+
 <ButtonWidget
   propType="button"
   propFunctionHandler={clickButtonHandler}
