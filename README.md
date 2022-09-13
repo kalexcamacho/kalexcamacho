@@ -23,13 +23,13 @@ let clickButtonHandler = (e: any) => {
 };
 
 <ButtonWidget
-  propType="button"
-  propFunctionHandler={clickButtonHandler}
-  propText="Button"
-  propVariant="contained"
-  propColor="primary"
-  propSize="medium"
-  propDisabled={false}
+  propType = "button"
+  propFunctionHandler = { clickButtonHandler }
+  propText = "Button"
+  propVariant = "contained"
+  propColor = "primary"
+  propSize = "medium"
+  propDisabled = { false }
 />;
 ```
 
